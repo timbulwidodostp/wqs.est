@@ -1,6 +1,8 @@
 # wqs.est
 Weighted Quantile Sum Regression Use wqs.est (wqs) With (In) R Software
 
+https://www.youtube.com/watch?v=Xawgyt4SCGY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
